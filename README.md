@@ -15,6 +15,8 @@ The hardware has an open-collector "key-down" output, so it could be used to add
 
 * Scott L Baker
 
+* If you like my designs and would like to support my work: https://buymeacoffee.com/scottlbaker
+
 
 ## License
 
