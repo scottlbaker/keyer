@@ -1,0 +1,23 @@
+
+This version of firmware adds support for Ultimatic mode.
+
+In Ultimatic mode when both paddles are pressed, the keyer will output 
+the element of last paddle pressed.  
+
+To generate a question mark:
+
+1) press the dit paddle for two dits
+2) keeping the dit pressed, squeeze the dah also for the middle two dahs
+3) release the dah paddle only for the last two dits
+4) release the dit
+
+To generate a comma:
+
+1) press the dah paddle for two dahs
+2) keeping the dah pressed, squeeze the dit for the middle two dits
+3) release the dit paddle only for the last two dahs
+4) release the dah
+
+73,
+Scott KJ7NLA
+
